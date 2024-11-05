@@ -1,10 +1,9 @@
 setuptools
-streamlit==1.25.0
-transformers==4.35.0
-sentence-transformers==2.2.2
-faiss-cpu
-numpy==1.23.5
+streamlit
+transformers
+sentence-transformers
+numpy
 scikit-learn
-setuptools
-pip==24.3.1
+pip
+faiss-cpu
 
